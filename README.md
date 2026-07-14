@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @smithcv
 - 👀 I’m interested in robotics, underwater unmanned vehicles
-- 🌱 I’m currently learning Project Management, C++ code securitity
 - 💞️ I’m looking to collaborate on C++/Qt/AI
 - 📫 Best way to connect is LinkedIn: www.linkedin.com/in/clayvsmith
